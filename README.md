@@ -37,6 +37,4 @@ Future updates will include:
 - User-friendly dashboards  
 - Deployment options (local & cloud-hosted)  
 
----
 
-## 📂 Repo Structure (Planned)  
